@@ -1,23 +1,22 @@
 # LineFollower
 
-lege repository die je als template kan gebruiken om een eigen repository te starten voor uw linefollower project
 
 ![A description of my image](images/empty.png)
 
   
 ## specifications
 
-microcontroller:
+microcontroller: Arduino Nano
 
 motors: 
 
-h-bridge:
+h-bridge: TB6612FNG
 
-sensors:
+sensors: 
 
-batteries:
+batteries: 2S Panasonic 18650 Li-ion Batterij - 3030mAh - 10A - NCR18650BD
 
-wireless communication:
+wireless communication: HC-05
 
 distance sensor - motors:
 
