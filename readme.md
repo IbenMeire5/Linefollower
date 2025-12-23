@@ -18,9 +18,9 @@ batteries: 2S Panasonic 18650 Li-ion Batterij - 3030mAh - 10A - NCR18650BD
 
 wireless communication: HC-05
 
-distance sensor - motors:
+distance sensor - motors: 7cm
 
 weight:
 
-speed: 
+speed: 0,23 m/s
 
