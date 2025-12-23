@@ -1,5 +1,6 @@
 # LineFollower
 
+<img width="480" height="640" alt="image" src="https://github.com/user-attachments/assets/21e87f9d-c930-43ab-8351-9bca5b088c37" />
 
 ![A description of my image](images/empty.png)
 
